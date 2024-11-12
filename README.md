@@ -4,7 +4,7 @@ This project is an ongoing development that applies various algorithms from the 
 
 ## Project Overview
 
-The Algorithms Cloud App is built to help you study and visualize fundamental algorithms by incorporating them into a full-stack cloud application. This application will be used to demonstrate the impact and importance of algorithms in solving real-world problems.
+The Algorithms Cloud App is built to help me study and visualize fundamental algorithms by incorporating them into a full-stack cloud application. This application will be used to demonstrate the impact and importance of algorithms in solving real-world problems.
 
 ## Algorithms Covered
 
