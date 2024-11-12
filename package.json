@@ -1,0 +1,25 @@
+{
+  "name": "algorithm-challenge",
+  "version": "1.0.0",
+  "description": "A Node.js application for algorithm challenges",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "mocha tests/**/*.test.js"
+  },
+  "keywords": [
+    "algorithm",
+    "challenges",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.20"
+  }
+}

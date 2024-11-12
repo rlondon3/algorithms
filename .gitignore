@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# pnpm store (used by pnpm to cache dependencies)
+.pnpm/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Coverage folder (for testing)
+coverage/
+
+# pnpm-lock.yaml (if using a different lock file like yarn.lock)
+pnpm-lock.yaml
